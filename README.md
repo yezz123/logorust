@@ -1,0 +1,2 @@
+# logorust
+Lightweight Logging module ✨
